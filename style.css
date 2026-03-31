@@ -1,0 +1,81 @@
+body {
+	font-family: Arial, sans-serif;
+	background-image: url(back1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+      background-repeat: no-repeat;
+         background-position: center
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+	padding: 10px;
+    background: black;
+    margin-left: 500px;
+    margin-right: 500px;
+	border-radius: 10px;
+  
+}
+
+.shirt {
+    size: 50px;
+	display: flex;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 50px;
+	color: maroon;
+    
+}
+
+.product shirt {
+	width: 250px;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+section {
+	margin: 20px;
+	padding: 20px;
+	border-radius: 10px;
+	
+}
+
+button {
+	padding: 5px;
+	background: red;
+	
+}
+
+button:hover{
+    background-color: #45a049;
+}
+header {
+	color: maroon;
+	text-align: center;
+	padding: 20px;
+ background: black;
+
+
+}
+
+.product {
+	display: flex;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 10px;
+	color: maroon;
+      background: black;
+}
+
+.product img {
+	
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+
+
+
+
+
